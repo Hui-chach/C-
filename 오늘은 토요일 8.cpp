@@ -139,15 +139,27 @@ int main(){
     
     
     
-    
-#include <stdio.h>
-int main(){
-	
-	char word[20];
-	scanf("%s", word);
-	for(int i = 0;  word[i]; i++){
-		printf("%c", word[i]-32);
-	}
-	
-	scanf("%s", word);
-}
+//    
+//#include <stdio.h>
+//int main(){
+//	
+//	char word[20];
+//	scanf("%s", word);
+//	for(int i = 0;  word[i]; i++){
+//		printf("%c", word[i]-32);
+//	}
+//	
+//	scanf("%s", word);
+//}
+//
+//#include<stdio.h>
+//int main(){
+//	
+//	char wor[20];
+//	scnaf("%s", word);
+//	
+//	for(int i =4;i>=0; i++){
+//		printf("%c", word[i]);
+//		
+//	}
+//}
